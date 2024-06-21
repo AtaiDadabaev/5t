@@ -1,0 +1,8 @@
+[32mINFO    [0m test_5:conftest.py:28 ===> Test test_5 started at 2024-06-21 18:05:27.877700
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:149 The chromedriver version (125.0.6422.78) detected in PATH at C:\Users\firstlord\webdrivers\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (126.0.6478.62); currently, chromedriver 126.0.6478.63 is recommended for chrome 126.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m test_5:conftest.py:51 Browser chrome started
+[32mINFO    [0m test_5:BasePage.py:54 MainPage: Clicked |search|
+[32mINFO    [0m test_5:BasePage.py:69 MainPage: Writing |mouse| to |search|
+[32mINFO    [0m test_5:BasePage.py:54 MainPage: Clicked |search|
+[32mINFO    [0m test_5:BasePage.py:69 MainPage: Writing |keyboard| to |search|
+[32mINFO    [0m test_5:conftest.py:55 ===> Test test_5 finished at 2024-06-21 18:05:34.215313

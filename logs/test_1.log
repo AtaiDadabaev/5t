@@ -1,0 +1,90 @@
+INFO ===> Test test_1 started at 2024-06-21 18:04:21.078544
+INFO Browser chrome started
+INFO RegPage: Clicked |INPUT_LOGIN|
+INFO RegPage: Writing |user| to |INPUT_LOGIN|
+INFO RegPage: Clicked |INPUT_PASSWORD|
+INFO RegPage: Writing |bitnami| to |INPUT_PASSWORD|
+INFO RegPage: Clicked |NEXT|
+INFO AdminPage: Clicked |MENU_CATALOG|
+INFO AdminPage: Clicked |LI_CATEGORIES|
+INFO CategoriesPage: Clicked |button_add_new_category|
+INFO CategoriesPage: Clicked |input_category_name|
+INFO CategoriesPage: Writing |Devices| to |input_category_name|
+INFO CategoriesPage: Clicked |input_meta_tag_title|
+INFO CategoriesPage: Writing |META_TAG_TITLEDevices| to |input_meta_tag_title|
+INFO CategoriesPage: Clicked |input_meta_tag_description|
+INFO CategoriesPage: Writing |META_TAG_DESCRIPTIONDevices| to |input_meta_tag_description|
+INFO CategoriesPage: Clicked |input_meta_tag_keywords|
+INFO CategoriesPage: Writing |META_TAG_KEYWORDSDevices| to |input_meta_tag_keywords|
+INFO CategoriesPage: Clicked |tab_data|
+INFO CategoriesPage: Clicked |select_parent|
+INFO CategoriesPage: Clicked |option_parent_none|
+INFO CategoriesPage: Clicked |tab_seo|
+INFO CategoriesPage: Clicked |input_keyword|
+INFO CategoriesPage: Writing |devicestest| to |input_keyword|
+INFO CategoriesPage: Clicked |tab_design|
+INFO CategoriesPage: Clicked |select_layout_override|
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO CategoriesPage: Clicked |button_save_category|
+INFO CategoriesPage: Clicked |link_main_page_categories|
+INFO CategoriesPage: Clicked |button_add_new_category|
+INFO CategoriesPage: Clicked |input_category_name|
+INFO CategoriesPage: Writing |mouse| to |input_category_name|
+INFO CategoriesPage: Clicked |input_meta_tag_title|
+INFO CategoriesPage: Writing |META_TAG_TITLEmouse| to |input_meta_tag_title|
+INFO CategoriesPage: Clicked |input_meta_tag_description|
+INFO CategoriesPage: Writing |META_TAG_DESCRIPTIONmouse| to |input_meta_tag_description|
+INFO CategoriesPage: Clicked |input_meta_tag_keywords|
+INFO CategoriesPage: Writing |mousessmouse| to |input_meta_tag_keywords|
+INFO CategoriesPage: Clicked |tab_data|
+INFO CategoriesPage: Clicked |select_parent|
+INFO CategoriesPage: Writing |Devices| to |select_parent|
+INFO CategoriesPage: Clicked |('link text', 'Devices')|
+INFO CategoriesPage: Clicked |tab_seo|
+INFO CategoriesPage: Clicked |input_keyword|
+INFO CategoriesPage: Writing |mousetest| to |input_keyword|
+INFO CategoriesPage: Clicked |tab_design|
+INFO CategoriesPage: Clicked |select_layout_override|
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO CategoriesPage: Clicked |button_save_category|
+INFO CategoriesPage: Clicked |link_main_page_categories|
+INFO CategoriesPage: Clicked |button_add_new_category|
+INFO CategoriesPage: Clicked |input_category_name|
+INFO CategoriesPage: Writing |keyboard| to |input_category_name|
+INFO CategoriesPage: Clicked |input_meta_tag_title|
+INFO CategoriesPage: Writing |META_TAG_TITLEkeyboard| to |input_meta_tag_title|
+INFO CategoriesPage: Clicked |input_meta_tag_description|
+INFO CategoriesPage: Writing |META_TAG_DESCRIPTIONkeyboard| to |input_meta_tag_description|
+INFO CategoriesPage: Clicked |input_meta_tag_keywords|
+INFO CategoriesPage: Writing |keyboarddkeyboard| to |input_meta_tag_keywords|
+INFO CategoriesPage: Clicked |tab_data|
+INFO CategoriesPage: Clicked |select_parent|
+INFO CategoriesPage: Writing |Devices| to |select_parent|
+INFO CategoriesPage: Clicked |('link text', 'Devices')|
+INFO CategoriesPage: Clicked |tab_seo|
+INFO CategoriesPage: Clicked |input_keyword|
+INFO CategoriesPage: Writing |keyboardtest| to |input_keyword|
+INFO CategoriesPage: Clicked |tab_design|
+INFO CategoriesPage: Clicked |select_layout_override|
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO Pressed 'Down Arrow'
+INFO CategoriesPage: Clicked |button_save_category|
+INFO CategoriesPage: Clicked |link_main_page_categories|
+INFO ===> Test test_1 finished at 2024-06-21 18:04:36.851935

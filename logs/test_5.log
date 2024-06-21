@@ -1,0 +1,7 @@
+INFO ===> Test test_5 started at 2024-06-21 18:05:27.877700
+INFO Browser chrome started
+INFO MainPage: Clicked |search|
+INFO MainPage: Writing |mouse| to |search|
+INFO MainPage: Clicked |search|
+INFO MainPage: Writing |keyboard| to |search|
+INFO ===> Test test_5 finished at 2024-06-21 18:05:34.215313

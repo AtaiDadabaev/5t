@@ -1,0 +1,26 @@
+INFO ===> Test test_4 started at 2024-06-21 18:05:11.718408
+INFO Browser chrome started
+INFO RegPage: Clicked |INPUT_LOGIN|
+INFO RegPage: Writing |user| to |INPUT_LOGIN|
+INFO RegPage: Clicked |INPUT_PASSWORD|
+INFO RegPage: Writing |bitnami| to |INPUT_PASSWORD|
+INFO RegPage: Clicked |NEXT|
+INFO AdminMainPage: Clicked |MENU_CATALOG|
+INFO AdminMainPage: Clicked |LI_PRODUCTS|
+INFO ProductPage: Clicked |link_main_page_product|
+INFO ProductPage: Clicked |input_product_name_filter|
+INFO ProductPage: Writing |Mouse| to |input_product_name_filter|
+INFO ProductPage: Clicked |input_model|
+INFO ProductPage: Writing |model_mouse| to |input_model|
+INFO ProductPage: Clicked |button_filter|
+INFO ProductPage: Clicked |checkbox_first_product|
+INFO ProductPage: Clicked |button_delete|
+INFO ProductPage: Clicked |link_main_page_product|
+INFO ProductPage: Clicked |input_product_name_filter|
+INFO ProductPage: Writing |Keyboard| to |input_product_name_filter|
+INFO ProductPage: Clicked |input_model|
+INFO ProductPage: Writing |keyboard_model| to |input_model|
+INFO ProductPage: Clicked |button_filter|
+INFO ProductPage: Clicked |checkbox_first_product|
+INFO ProductPage: Clicked |button_delete|
+INFO ===> Test test_4 finished at 2024-06-21 18:05:23.790719

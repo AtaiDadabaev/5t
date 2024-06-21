@@ -1,0 +1,83 @@
+[32mINFO    [0m test_2:conftest.py:28 ===> Test test_2 started at 2024-06-21 18:04:40.953156
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:149 The chromedriver version (125.0.6422.78) detected in PATH at C:\Users\firstlord\webdrivers\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (126.0.6478.62); currently, chromedriver 126.0.6478.63 is recommended for chrome 126.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m test_2:conftest.py:51 Browser chrome started
+[32mINFO    [0m test_2:BasePage.py:54 RegPage: Clicked |INPUT_LOGIN|
+[32mINFO    [0m test_2:BasePage.py:69 RegPage: Writing |user| to |INPUT_LOGIN|
+[32mINFO    [0m test_2:BasePage.py:54 RegPage: Clicked |INPUT_PASSWORD|
+[32mINFO    [0m test_2:BasePage.py:69 RegPage: Writing |bitnami| to |INPUT_PASSWORD|
+[32mINFO    [0m test_2:BasePage.py:54 RegPage: Clicked |NEXT|
+[32mINFO    [0m test_2:BasePage.py:54 AdminMainPage: Clicked |MENU_CATALOG|
+[32mINFO    [0m test_2:BasePage.py:54 AdminMainPage: Clicked |LI_PRODUCTS|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |button_add_new_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_product_name|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |Mouse model_mouse| to |input_product_name|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_meta_tag_title|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |Mouse| to |input_meta_tag_title|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_data|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_model|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |model_mouse| to |input_model|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_links|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_choice_categories|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |mouse| to |input_choice_categories|
+[32mINFO    [0m test_2:ProductPage.py:31 Pressed 'TAB'
+[32mINFO    [0m test_2:ProductPage.py:35 Pressed 'ENTER'
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_seo|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_keyword|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |euuMu| to |input_keyword|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |button_save_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |link_main_page_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |button_add_new_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_product_name|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |Keyboard keyboard_model| to |input_product_name|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_meta_tag_title|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |Keyboard| to |input_meta_tag_title|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_data|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_model|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |keyboard_model| to |input_model|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_links|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_choice_categories|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |keyboard| to |input_choice_categories|
+[32mINFO    [0m test_2:ProductPage.py:31 Pressed 'TAB'
+[32mINFO    [0m test_2:ProductPage.py:35 Pressed 'ENTER'
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_seo|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_keyword|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |reabKarr| to |input_keyword|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |button_save_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |link_main_page_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |button_add_new_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_product_name|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |Mouse2 model_mouse| to |input_product_name|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_meta_tag_title|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |Mouse2| to |input_meta_tag_title|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_data|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_model|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |model_mouse| to |input_model|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_links|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_choice_categories|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |mouse| to |input_choice_categories|
+[32mINFO    [0m test_2:ProductPage.py:31 Pressed 'TAB'
+[32mINFO    [0m test_2:ProductPage.py:35 Pressed 'ENTER'
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_seo|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_keyword|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |eMsuuM| to |input_keyword|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |button_save_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |link_main_page_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |button_add_new_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_product_name|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |Keyboard2 keyboard_model| to |input_product_name|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_meta_tag_title|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |Keyboard2| to |input_meta_tag_title|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_data|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_model|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |keyboard_model| to |input_model|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_links|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_choice_categories|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |keyboard| to |input_choice_categories|
+[32mINFO    [0m test_2:ProductPage.py:31 Pressed 'TAB'
+[32mINFO    [0m test_2:ProductPage.py:35 Pressed 'ENTER'
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |tab_seo|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |input_keyword|
+[32mINFO    [0m test_2:BasePage.py:69 ProductPage: Writing |e22adb2Kd| to |input_keyword|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |button_save_product|
+[32mINFO    [0m test_2:BasePage.py:54 ProductPage: Clicked |link_main_page_product|
+[32mINFO    [0m test_2:conftest.py:55 ===> Test test_2 finished at 2024-06-21 18:04:57.724981

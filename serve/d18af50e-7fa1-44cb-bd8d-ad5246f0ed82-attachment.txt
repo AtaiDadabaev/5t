@@ -1,0 +1,91 @@
+[32mINFO    [0m test_1:conftest.py:28 ===> Test test_1 started at 2024-06-21 18:04:21.078544
+[33mWARNING [0m selenium.webdriver.common.selenium_manager:selenium_manager.py:149 The chromedriver version (125.0.6422.78) detected in PATH at C:\Users\firstlord\webdrivers\chromedriver\chromedriver.exe might not be compatible with the detected chrome version (126.0.6478.62); currently, chromedriver 126.0.6478.63 is recommended for chrome 126.*, so it is advised to delete the driver in PATH and retry
+[32mINFO    [0m test_1:conftest.py:51 Browser chrome started
+[32mINFO    [0m test_1:BasePage.py:54 RegPage: Clicked |INPUT_LOGIN|
+[32mINFO    [0m test_1:BasePage.py:69 RegPage: Writing |user| to |INPUT_LOGIN|
+[32mINFO    [0m test_1:BasePage.py:54 RegPage: Clicked |INPUT_PASSWORD|
+[32mINFO    [0m test_1:BasePage.py:69 RegPage: Writing |bitnami| to |INPUT_PASSWORD|
+[32mINFO    [0m test_1:BasePage.py:54 RegPage: Clicked |NEXT|
+[32mINFO    [0m test_1:BasePage.py:54 AdminPage: Clicked |MENU_CATALOG|
+[32mINFO    [0m test_1:BasePage.py:54 AdminPage: Clicked |LI_CATEGORIES|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |button_add_new_category|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_category_name|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |Devices| to |input_category_name|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_meta_tag_title|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |META_TAG_TITLEDevices| to |input_meta_tag_title|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_meta_tag_description|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |META_TAG_DESCRIPTIONDevices| to |input_meta_tag_description|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_meta_tag_keywords|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |META_TAG_KEYWORDSDevices| to |input_meta_tag_keywords|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |tab_data|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |select_parent|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |option_parent_none|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |tab_seo|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_keyword|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |devicestest| to |input_keyword|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |tab_design|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |select_layout_override|
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |button_save_category|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |link_main_page_categories|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |button_add_new_category|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_category_name|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |mouse| to |input_category_name|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_meta_tag_title|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |META_TAG_TITLEmouse| to |input_meta_tag_title|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_meta_tag_description|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |META_TAG_DESCRIPTIONmouse| to |input_meta_tag_description|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_meta_tag_keywords|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |mousessmouse| to |input_meta_tag_keywords|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |tab_data|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |select_parent|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |Devices| to |select_parent|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |('link text', 'Devices')|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |tab_seo|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_keyword|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |mousetest| to |input_keyword|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |tab_design|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |select_layout_override|
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |button_save_category|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |link_main_page_categories|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |button_add_new_category|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_category_name|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |keyboard| to |input_category_name|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_meta_tag_title|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |META_TAG_TITLEkeyboard| to |input_meta_tag_title|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_meta_tag_description|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |META_TAG_DESCRIPTIONkeyboard| to |input_meta_tag_description|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_meta_tag_keywords|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |keyboarddkeyboard| to |input_meta_tag_keywords|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |tab_data|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |select_parent|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |Devices| to |select_parent|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |('link text', 'Devices')|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |tab_seo|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |input_keyword|
+[32mINFO    [0m test_1:BasePage.py:69 CategoriesPage: Writing |keyboardtest| to |input_keyword|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |tab_design|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |select_layout_override|
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:CategoriesPage.py:29 Pressed 'Down Arrow'
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |button_save_category|
+[32mINFO    [0m test_1:BasePage.py:54 CategoriesPage: Clicked |link_main_page_categories|
+[32mINFO    [0m test_1:conftest.py:55 ===> Test test_1 finished at 2024-06-21 18:04:36.851935

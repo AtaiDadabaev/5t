@@ -1,0 +1,82 @@
+INFO ===> Test test_2 started at 2024-06-21 18:04:40.953156
+INFO Browser chrome started
+INFO RegPage: Clicked |INPUT_LOGIN|
+INFO RegPage: Writing |user| to |INPUT_LOGIN|
+INFO RegPage: Clicked |INPUT_PASSWORD|
+INFO RegPage: Writing |bitnami| to |INPUT_PASSWORD|
+INFO RegPage: Clicked |NEXT|
+INFO AdminMainPage: Clicked |MENU_CATALOG|
+INFO AdminMainPage: Clicked |LI_PRODUCTS|
+INFO ProductPage: Clicked |button_add_new_product|
+INFO ProductPage: Clicked |input_product_name|
+INFO ProductPage: Writing |Mouse model_mouse| to |input_product_name|
+INFO ProductPage: Clicked |input_meta_tag_title|
+INFO ProductPage: Writing |Mouse| to |input_meta_tag_title|
+INFO ProductPage: Clicked |tab_data|
+INFO ProductPage: Clicked |input_model|
+INFO ProductPage: Writing |model_mouse| to |input_model|
+INFO ProductPage: Clicked |tab_links|
+INFO ProductPage: Clicked |input_choice_categories|
+INFO ProductPage: Writing |mouse| to |input_choice_categories|
+INFO Pressed 'TAB'
+INFO Pressed 'ENTER'
+INFO ProductPage: Clicked |tab_seo|
+INFO ProductPage: Clicked |input_keyword|
+INFO ProductPage: Writing |euuMu| to |input_keyword|
+INFO ProductPage: Clicked |button_save_product|
+INFO ProductPage: Clicked |link_main_page_product|
+INFO ProductPage: Clicked |button_add_new_product|
+INFO ProductPage: Clicked |input_product_name|
+INFO ProductPage: Writing |Keyboard keyboard_model| to |input_product_name|
+INFO ProductPage: Clicked |input_meta_tag_title|
+INFO ProductPage: Writing |Keyboard| to |input_meta_tag_title|
+INFO ProductPage: Clicked |tab_data|
+INFO ProductPage: Clicked |input_model|
+INFO ProductPage: Writing |keyboard_model| to |input_model|
+INFO ProductPage: Clicked |tab_links|
+INFO ProductPage: Clicked |input_choice_categories|
+INFO ProductPage: Writing |keyboard| to |input_choice_categories|
+INFO Pressed 'TAB'
+INFO Pressed 'ENTER'
+INFO ProductPage: Clicked |tab_seo|
+INFO ProductPage: Clicked |input_keyword|
+INFO ProductPage: Writing |reabKarr| to |input_keyword|
+INFO ProductPage: Clicked |button_save_product|
+INFO ProductPage: Clicked |link_main_page_product|
+INFO ProductPage: Clicked |button_add_new_product|
+INFO ProductPage: Clicked |input_product_name|
+INFO ProductPage: Writing |Mouse2 model_mouse| to |input_product_name|
+INFO ProductPage: Clicked |input_meta_tag_title|
+INFO ProductPage: Writing |Mouse2| to |input_meta_tag_title|
+INFO ProductPage: Clicked |tab_data|
+INFO ProductPage: Clicked |input_model|
+INFO ProductPage: Writing |model_mouse| to |input_model|
+INFO ProductPage: Clicked |tab_links|
+INFO ProductPage: Clicked |input_choice_categories|
+INFO ProductPage: Writing |mouse| to |input_choice_categories|
+INFO Pressed 'TAB'
+INFO Pressed 'ENTER'
+INFO ProductPage: Clicked |tab_seo|
+INFO ProductPage: Clicked |input_keyword|
+INFO ProductPage: Writing |eMsuuM| to |input_keyword|
+INFO ProductPage: Clicked |button_save_product|
+INFO ProductPage: Clicked |link_main_page_product|
+INFO ProductPage: Clicked |button_add_new_product|
+INFO ProductPage: Clicked |input_product_name|
+INFO ProductPage: Writing |Keyboard2 keyboard_model| to |input_product_name|
+INFO ProductPage: Clicked |input_meta_tag_title|
+INFO ProductPage: Writing |Keyboard2| to |input_meta_tag_title|
+INFO ProductPage: Clicked |tab_data|
+INFO ProductPage: Clicked |input_model|
+INFO ProductPage: Writing |keyboard_model| to |input_model|
+INFO ProductPage: Clicked |tab_links|
+INFO ProductPage: Clicked |input_choice_categories|
+INFO ProductPage: Writing |keyboard| to |input_choice_categories|
+INFO Pressed 'TAB'
+INFO Pressed 'ENTER'
+INFO ProductPage: Clicked |tab_seo|
+INFO ProductPage: Clicked |input_keyword|
+INFO ProductPage: Writing |e22adb2Kd| to |input_keyword|
+INFO ProductPage: Clicked |button_save_product|
+INFO ProductPage: Clicked |link_main_page_product|
+INFO ===> Test test_2 finished at 2024-06-21 18:04:57.724981
